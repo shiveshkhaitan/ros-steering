@@ -1,0 +1,4 @@
+<launch>
+<node pkg="ros_controller" name="server" type="server" output="screen"/>
+<node pkg="ros_controller" name="client" type="client" output="screen"/>
+</launch> 

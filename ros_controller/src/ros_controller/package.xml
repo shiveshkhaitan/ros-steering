@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>ros_controller</name>
+  <version>0.0.0</version>
+  <description>ROS server and client nodes for android robot controller</description>
+  <maintainer email="shiveshkhaitan@gmail.com">Shivesh Khaitan</maintainer>
+  <license>TODO</license>
+  <depend>roscpp</depend>
+  <depend>geometry_msgs</depend>
+  <depend>nav_msgs</depend>
+  <buildtool_depend>catkin</buildtool_depend>
+</package>
